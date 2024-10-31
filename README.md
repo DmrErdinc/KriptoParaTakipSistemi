@@ -1,1 +1,6 @@
 # KriptoParaTakipSistemi
+Bu programda bir kripto takip sistemi uygulaması geliştirdim. Bu uygulama, dönem ödevi olarak hazırlandığı için üzerine ekstra bir özen gösterdim. Tüm haklarım saklı olup, uygulamanın geliştirmeye açık olması adına herkese açık olarak yayınladım.
+Uygulamamızın temel amacı, toplamda 6 adet kripto para birimini belirleyerek, bu varlıkları tek bir platformda izlemek ve yönetmektir. Kullanıcılar, seçtikleri kripto paraları ayrı ayrı görüntüleyebilirken, aynı zamanda sanal bir ortamda alım satım işlemleri gerçekleştirme yetkinliğine sahip olabilecekler. Bu sayede, kullanıcılar piyasa dinamiklerini anlama ve yatırım stratejileri geliştirme fırsatı bulacaklar.
+Uygulama, kullanıcı dostu bir arayüze sahip olup, kripto para birimlerinin fiyatlarını anlık olarak takip etme imkanı sunmaktadır. Ayrıca, kullanıcılar kendi portföylerini oluşturarak, çeşitli analizler yapabilir ve bu sayede daha bilinçli yatırım kararları alabilirler.
+Projenin geliştirilmesine katkıda bulunmak veya uygulama hakkında görüşlerinizi ve sorularınızı paylaşmak isterseniz, benimle eraydemir300@gmail.com adresinden iletişime geçebilirsiniz. Geri bildirimleriniz, uygulamanın daha da geliştirilmesi için büyük bir önem taşıyor.
+Herkese başarılı yatırımlar dilerim!
